@@ -6,7 +6,7 @@ spec:
   version: v1.6.2
   homepage: https://github.com/eldadru/ksniff
   platforms:
-  - uri: https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
+  - uri: https://mirror.ghproxy.com/https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
     sha256: c59b5c9ea84d6cb771096f1246c919b71389f9d4234e858f4929208957e561fd
     bin: kubectl-sniff
     files:
@@ -20,7 +20,7 @@ spec:
       matchLabels:
         os: darwin
         arch: amd64
-  - uri: https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
+  - uri: https://mirror.ghproxy.com/https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
     sha256: c59b5c9ea84d6cb771096f1246c919b71389f9d4234e858f4929208957e561fd
     bin: kubectl-sniff
     files:
@@ -34,7 +34,7 @@ spec:
       matchLabels:
         os: darwin
         arch: arm64
-  - uri: https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
+  - uri: https://mirror.ghproxy.com/https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
     sha256: c59b5c9ea84d6cb771096f1246c919b71389f9d4234e858f4929208957e561fd
     bin: kubectl-sniff
     files:
@@ -48,7 +48,7 @@ spec:
       matchLabels:
         os: linux
         arch: amd64
-  - uri: https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
+  - uri: https://mirror.ghproxy.com/https://github.com/eldadru/ksniff/releases/download/v1.6.2/ksniff.zip
     sha256: c59b5c9ea84d6cb771096f1246c919b71389f9d4234e858f4929208957e561fd
     bin: kubectl-sniff.exe
     files:
